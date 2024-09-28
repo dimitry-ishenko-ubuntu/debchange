@@ -20,8 +20,10 @@ Depends:
  ${perl:Depends},
  ${misc:Depends},
  ${shlibs:Depends},
+Recommends:
+ libdistro-info-perl,
 Breaks:
- devscripts
+ devscripts,
 Replaces:
- devscripts
+ devscripts,
 Description: debchange/dch script extracted from devscripts
