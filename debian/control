@@ -26,4 +26,4 @@ Breaks:
  devscripts,
 Replaces:
  devscripts,
-Description: debchange/dch script extracted from devscripts
+Description: debchange (aka dch) script extracted from devscripts
